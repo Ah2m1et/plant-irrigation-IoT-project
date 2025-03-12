@@ -1,6 +1,4 @@
-# plant-irrigation-IoT-project
-
-# 🌱 Akıllı Bitki Sulama Sistemi (IoT)  
+# 🌱 plant-irrigation-IoT-project
 
 Bu proje, ESP32 mikrodenetleyicisi kullanarak bitkilerin toprak nem seviyesine göre otomatik olarak sulanmasını sağlayan bir IoT tabanlı sistemdir. Sistem, bir toprak nem sensörü aracılığıyla verileri alır, belirlenen eşik değerinin altına düştüğünde su pompasını çalıştırır ve aynı zamanda verileri bir IoT platformuna (örneğin Firebase, MQTT, Blynk) gönderir.  
 
@@ -32,11 +30,5 @@ Bu proje için veriler aşağıdaki platformlardan biri kullanılarak uzaktan iz
 3. Sensör verileri belirlenen IoT platformuna gönderilir.  
 4. Kullanıcı, mobil uygulama veya web paneli üzerinden durumu takip edebilir ve gerektiğinde sulamayı manuel olarak başlatabilir.  
 
-## 📅 Gelecekteki Geliştirmeler  
-📌 Güneş enerjisiyle çalışan versiyon  
-📌 Ortam sıcaklığı ve hava durumu verilerine göre akıllı sulama algoritması  
-📌 Çeşitli bitkiler için farklı sulama senaryoları  
-
 ## 📄 Lisans  
-Bu proje açık kaynaklıdır, geliştirip paylaşabilir
-siniz.  
+Bu proje açık kaynaklıdır, geliştirip paylaşabilirsiniz.  
