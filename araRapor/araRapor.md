@@ -1,9 +1,9 @@
 # Ara Rapor - ESP32 Tabanlı Web Arayüzlü Akıllı Sulama Sistemi
 
-## 1. Proje Konusu (Kısa)
+## 1. Proje Konusu
 Toprak nemine duyarlı, Wi-Fi üzerinden uzaktan erişilebilen ve otomatik sulama yapabilen, ESP32 tabanlı akıllı tarım sistemi geliştirilmesi.
 
-## 2. Özet (Kısa)
+## 2. Özet
 Bu proje kapsamında, ESP32 mikrodenetleyici kullanılarak toprak nemini ölçen ve kullanıcıya internet üzerinden bu veriyi sunan bir sistem geliştirilmiştir. Sistem, nem seviyesi belirli bir eşik değerin altına düştüğünde otomatik olarak sulama başlatmakta, web arayüzü üzerinden izleme ve kontrol imkanı sunmaktadır. Sistem modüler tasarlanmış olup, ileride farklı bitki türlerine özel sulama eşikleri belirlenmesi ve gömülü sistemin 3D baskı ile tek bir muhafazada birleştirilmesi hedeflenmektedir. Ticari anlamda düşük maliyetli, ölçeklenebilir bir çözüm sunmayı amaçlamaktadır.
 
 ## 3. Kullanılan Yöntemler
@@ -22,9 +22,12 @@ Bu proje kapsamında, ESP32 mikrodenetleyici kullanılarak toprak nemini ölçen
 - Web arayüzü üzerinden anlık nem değeri takibi sağlandı.
 - Donanım ve yazılım kısmı ayrı modüller halinde geliştirildi.
 
-📷 Görseller (isteğe bağlı olarak eklenecek):
+📷 Görseller:
 - Cihazın genel görünümü
+- ![image](https://github.com/user-attachments/assets/66eb66b7-4c8c-48e0-a84d-7add1eed6e20)
 - Web arayüz ekran görüntüsü
+- ![image](https://github.com/user-attachments/assets/b6f30932-7917-40d2-a605-b115260bea68)
+
 
 ## 5. Elde Edilen Sonuçlar
 - Sistemin temel işlevleri başarıyla gerçekleştirildi.
