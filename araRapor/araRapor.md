@@ -24,9 +24,9 @@ Bu proje kapsamında, ESP32 mikrodenetleyici kullanılarak toprak nemini ölçen
 
 📷 Görseller:
 - Cihazın genel görünümü:
-  ![image](https://github.com/user-attachments/assets/66eb66b7-4c8c-48e0-a84d-7add1eed6e20)
+  ![image](https://github.com/ah2m1et/plant-irrigation-IoT-project/araRapor/Figure/devre.jpg)
 - Web arayüz ekran görüntüsü:
-  ![image](https://github.com/user-attachments/assets/b6f30932-7917-40d2-a605-b115260bea68)
+  ![image](https://github.com/ah2m1et/plant-irrigation-IoT-project/araRapor/Figure/arayüz.jpg)
 
 
 ## 5. Elde Edilen Sonuçlar
